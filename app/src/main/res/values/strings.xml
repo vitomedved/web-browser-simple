@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebAppRMA</string>
+    <string name="urlHint">URL</string>
+</resources>
